@@ -1,4 +1,4 @@
-# 🚀 Cypress Automation Learning Path - XAcademy
+# 🚀 Cypress Automation Learning Path - XAcademy | Technology with Purpose
 
 ¡Bienvenido/a a mi repositorio de aprendizaje de QA Automation! Este espacio está dedicado a almacenar mis prácticas, proyectos y desafíos utilizando **Cypress**, desarrollados a lo largo del trayecto formativo en **XAcademy**.
 
@@ -37,9 +37,9 @@ El contenido de este repositorio está estructurado siguiendo el plan de estudio
 ## 🛠️ Tecnologías y Herramientas Utilizadas
 
 * [Cypress](https://www.cypress.io/) - Framework de pruebas de extremo a extremo (E2E).
-* [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+* [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) - Lenguaje utilizado.
 * [Node.js](https://nodejs.org/) - Entorno de ejecución para Javascript.
-* Visual Studio Code - IDE de desarrollo.
+* [Visual Studio Code](https://code.visualstudio.com/) - IDE de desarrollo.
 
 ---
    
@@ -57,6 +57,6 @@ A grandes rasgos, la estructura de carpetas del proyecto se organiza de la sigui
 * 📄 **README.md**: Documentación del repositorio (este archivo).
 
 ## 🎓 Agradecimientos
-Agradezco a todo el equipo de XAcademy por la guía, el material y el soporte durante este proceso de aprendizaje en el mundo del QA Automation.
+Agradezco a todo el equipo de Technology with Purpose por la guía, el material y el soporte durante este proceso de aprendizaje en el mundo del QA Automation.
 
 ## 💡 Este repositorio está en constante evolución a medida que avanzo en el plan de estudios.
