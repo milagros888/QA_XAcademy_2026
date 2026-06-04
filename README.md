@@ -50,9 +50,9 @@ A grandes rasgos, la estructura de carpetas del proyecto se organiza de la sigui
 * 📁 **cypress/**: Carpeta principal de Cypress.
   * 📁 **e2e/**: Aquí se encuentran los archivos de prueba (.cy.js / .cy.ts).
   * 📁 **fixtures/**: Archivos de datos estáticos (JSON) para pruebas basadas en datos.
-  * 📁 **page-objects/**: Clases bajo el patrón Page Object Model (si aplica).
   * 📁 **support/**: Comandos personalizados (`commands.js`) y configuraciones globales.
 * 📄 **cypress.config.js**: Archivo de configuración global de Cypress.
+* 📄 **jsconfig.json**: Archivo que admite autocompletado de lenguaje Cypress.
 * 📄 **package.json**: Dependencias, librerías y scripts de ejecución del proyecto.
 * 📄 **README.md**: Documentación del repositorio (este archivo).
 
