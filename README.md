@@ -1,6 +1,6 @@
 # 🚀 Cypress Automation - Prácticas Sauce Demo
 
-¡Bienvenido/a a mi "Tester" de prácticas en Sauce Demo! El objetivo principal de este repositorio es hacer documentación y seguimiento de las actividades de pruebas **Automatizadas**.
+¡Bienvenido/a a mi "Testing" de prácticas en Sauce Demo! El objetivo principal de este repositorio es hacer documentación y seguimiento de las actividades de pruebas **Automatizadas**.
 
 Enlaces **importantes**:
 * [Sauce Demo](https://www.saucedemo.com/) - Entorno de pruebas.
