@@ -1,4 +1,4 @@
-# 🚀 Cypress Automation Learning Path - XAcademy | Technology with Purpose
+# 🚀 Cypress Automation Learning Path | XAcademy - Technology with Purpose
 
 ¡Bienvenido/a a mi repositorio de aprendizaje de QA Automation! Este espacio está dedicado a almacenar mis prácticas, proyectos y desafíos utilizando **Cypress**, desarrollados a lo largo del trayecto formativo en **XAcademy**.
 
@@ -48,7 +48,7 @@ El contenido de este repositorio está estructurado siguiendo el plan de estudio
 A grandes rasgos, la estructura de carpetas del proyecto se organiza de la siguiente manera:
 
 * 📁 **cypress/**: Carpeta principal de Cypress.
-  * 📁 **e2e/**: Aquí se encuentran los archivos de prueba (.cy.js / .cy.ts).
+  * 📁 **e2e/**: Aquí se encuentran los archivos de prueba (.cy.js).
   * 📁 **fixtures/**: Archivos de datos estáticos (JSON) para pruebas basadas en datos.
   * 📁 **support/**: Comandos personalizados (`commands.js`) y configuraciones globales.
 * 📄 **cypress.config.js**: Archivo de configuración global de Cypress.
