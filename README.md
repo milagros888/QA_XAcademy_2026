@@ -4,7 +4,7 @@
 
 Enlaces **importantes**:
 * [Sauce Demo](https://www.saucedemo.com/) - Entorno de pruebas.
-* [Trello - Bug Report](https://trello.com/invite/b/68efe786ed08e46edaa55595/ATTIe6df1048d9b7e96081ece75418e3b9e1BD5FD7DF/testeo) - Tablero para el reporte de Bugs.
+* [Trello - Bug Report](https://trello.com/invite/b/68efe786ed08e46edaa55595/ATTIe6df1048d9b7e96081ece75418e3b9e1BD5FD7DF/xacademy-2026-sauce-demo-testeo) - Tablero para el reporte de Bugs.
 * [Archivo DOCS](https://docs.google.com/spreadsheets/d/1wg_0J9VSqkpo3o-GIZEJtTmmD1rGzS8B/edit?usp=sharing&ouid=117694934778933394309&rtpof=true&sd=true) - Documentación sobre los test cases.
 
 ---
