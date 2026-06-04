@@ -47,11 +47,11 @@ describe ('Login Sauce Demo', () => {
         cy.get('[data-test="login-button"]').click() //Damos en el botón 'click'
 
         cy.url().should('include' , '/inventory.html') //Corroboramos que entremos al inventario
-        cy.get('[react-burger-menu-btn"]').click()
-        .and('select' , '[data-test="logout-sidebar-link"]')
 
-//        cy.url().should('include' , '/inventory.html') //Corroboramos que entremos al inventario
-//        cy.get('.app_logo').should('have.text', 'Swag Labs') //Corroboramos si el logo está con su nombre
+        cy.get('#react-burger-menu-btn').click() //Abrimos el menú hamburguesa
+        cy.get('[data-test="logout-sidebar-link"]').click() //Elijo la opción de LogOut
+
+        cy.url().should('eq', 'https://www.saucedemo.com/') //Verifico que volvi al login con éxito
     })
     
 })
